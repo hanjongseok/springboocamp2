@@ -6,7 +6,7 @@ import dto.MemberDTO;
 
 public interface MemberDAO {
 	
-	// 넣기
+	// 넣기//
 		public  void insert(MemberDTO dto);
 
 		// ID로검색하기

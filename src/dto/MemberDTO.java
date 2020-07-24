@@ -1,7 +1,7 @@
 package dto;
 
 public class MemberDTO {
-	
+	//
 	private int num;
 	private String userID;
 	private String userPW;
